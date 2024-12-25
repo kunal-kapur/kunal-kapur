@@ -5,4 +5,4 @@ My name is Kunal.
 - 🔭 I’m currently working on building apps using vector databases
 - 🌱 I’m currently learning how to run without getting shin splints
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-kapur&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-kapur&hide_progress=false)
